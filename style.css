@@ -1,0 +1,27 @@
+*  {
+	padding: 0px;
+	margin: 20px;
+
+}
+
+body {
+	font-family: arial;
+	width: 900px;
+	height: auto;
+}
+
+a {
+	text-decoration: none;
+	color: green;
+}
+#left_column {
+	width: 200px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+#social_media {
+	width: 400px;
+	display: inline-block;
+	vertical-align: top;
+}
